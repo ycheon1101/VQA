@@ -17,7 +17,7 @@ mkdir src
 ```
 
 Input the source image into the vqa/img/src.
-Before run my vqa_main.py code, please install 
+Before run my main_vqa.py code, please install 
 ``` cmd
 python3 -m spacy download en_core_web_sm
 ```
